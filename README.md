@@ -1,1 +1,4 @@
+sqllab_15字典.zip
 是个人为了使用bp打sql15靶场用的字典，其实可以直接用python进行布尔盲注
+bbs.zip
+是一个普通的sql注入靶场
